@@ -1,0 +1,12 @@
+# Core Dependencies for HR Resume Screening System
+# Pinning exact versions for Docker and team environment synchronization
+
+# PDF Processing
+pypdf==4.0.1
+
+# AI / LLM API Integration
+
+# Data Manipulation & Validation
+
+# Environment Variable Management
+python-dotenv==1.0.1
